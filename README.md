@@ -2,6 +2,7 @@
 I am Sanjat Kumar, a Full-Stack Web Developer and aspiring Data Analyst with a strong foundation in web technologies, data handling, and digital solutions. I have hands-on experience in designing and developing scalable web applications, analytics platforms, and data-driven systems.
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mandalnet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjatkumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Globalmusicoffical) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjatkumar18@gmail.com) 
 
