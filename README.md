@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am Sanjat Kumar, a Full-Stack Web Developer and aspiring Data Analyst with a strong foundation in web technologies, data handling, and digital solutions. I have hands-on experience in designing and developing scalable web applications, analytics platforms, and data-driven systems.
+I am Sanjat Kumar, a Full-Stack Web Developer and aspiring Data Analyst with a strong foundation in web technologies, data handling, and digital solutions. I have hands-on experience in designing and developing scalable web applications, analytics platforms, and data-driven systems
 
 
 
